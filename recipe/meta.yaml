@@ -34,7 +34,7 @@ outputs:
       run:
         - aiida-core >=2.0.0,<3.0.0
         - aiida-pseudo >=0.7.0
-        # TODO - aiida-optimize >=0.5.0
+        - aiida-optimize >=0.5.0
         - ase
         - python >=3.8
         - seekpath >=1.9.3,<2
